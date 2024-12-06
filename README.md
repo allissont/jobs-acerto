@@ -1,6 +1,6 @@
 # Carreiras na Acerto  
 
-Bem-vindo ao repositório oficial de vagas da **Acerto**!  
+Bem-vindo ao repositório de vagas da **Acerto**!  
 
 Somos uma fintech comprometida em transformar a vida financeira de milhões de brasileiros. Através de soluções inovadoras, desburocratizamos a negociação de dívidas, ajudando consumidores a reencontrar sua tranquilidade financeira e autonomia para voltar a sonhar.  
 
